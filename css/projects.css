@@ -1,0 +1,16 @@
+.other-projects > article {
+  border-top: 1px solid var(--line);
+  padding: 1.5rem 0;
+}
+
+.other-projects > article .project-visual {
+  margin-bottom: 1.35rem;
+}
+
+.other-projects > article .eyebrow {
+  margin-bottom: .65rem;
+}
+
+.other-projects > article .text-link {
+  margin-top: 1.2rem;
+}
